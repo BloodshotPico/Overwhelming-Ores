@@ -1,0 +1,7 @@
+//Coal Ores
+tile.poor_coal_ore.name=Poor Coal Ore
+
+//Coal Chunks
+item.coal_nugget.name=Coal Nugget
+item.tiny_coal.name=Tiny Coal
+item.coal_chunk.name=Coal Chunk

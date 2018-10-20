@@ -1,0 +1,16 @@
+[
+{
+  "modid": "owo",
+  "name": "Overwhelming Ores",
+  "description": "A mod to add poor and rich ores to the depths.",
+  "version": "0.0.0001",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bloodshot_pico"],
+  "credits": "All the modders who inspired me to start this learning process.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
