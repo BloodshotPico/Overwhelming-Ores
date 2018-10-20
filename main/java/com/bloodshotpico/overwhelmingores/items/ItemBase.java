@@ -12,7 +12,7 @@ public class ItemBase extends Item implements IHasModel
 	{
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(Main.MainTab);
+		setCreativeTab(Main.ItemsTab);
 		
 		ModItems.ITEMS.add(this);
 	}

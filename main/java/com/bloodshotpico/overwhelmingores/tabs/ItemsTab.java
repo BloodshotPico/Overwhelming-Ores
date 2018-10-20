@@ -1,22 +1,20 @@
 package com.bloodshotpico.overwhelmingores.tabs;
 
-import com.bloodshotpico.overwhelmingores.init.ModBlocks;
 import com.bloodshotpico.overwhelmingores.init.ModItems;
 
-import net.minecraft.client.Minecraft;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 
-public class MainTab extends CreativeTabs
+public class ItemsTab extends CreativeTabs
 {
-	public MainTab()
+	public ItemsTab()
 	{
-		super("owoblocks");
+		super("owoitems");
 	}
 	
 	@Override
 	public ItemStack getTabIconItem() 
 	{
-		return new ItemStack(ModBlocks.ENRICHED_COAL_ORE);
+		return new ItemStack(ModItems.DIAMOND_NUGGET);
 	}
 }

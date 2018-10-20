@@ -5,6 +5,7 @@ import com.bloodshotpico.overwhelmingores.proxy.CommonProxy;
 import com.bloodshotpico.overwhelmingores.util.Reference;
 import com.bloodshotpico.overwhelmingores.world.ModWorldGen;
 import com.bloodshotpico.overwhelmingores.tabs.MainTab;
+import com.bloodshotpico.overwhelmingores.tabs.ItemsTab;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
@@ -27,6 +28,7 @@ public class Main
 	public static CommonProxy proxy;
 	
 	public static CreativeTabs MainTab = new MainTab();
+	public static CreativeTabs ItemsTab = new ItemsTab();
 	
 	@EventHandler
 	public static void PreInit(FMLPreInitializationEvent event)
