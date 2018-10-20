@@ -5,8 +5,10 @@ import java.util.List;
 
 import com.bloodshotpico.overwhelmingores.blocks.EnrichedCoalOre;
 import com.bloodshotpico.overwhelmingores.blocks.PoorCoalOre;
+import com.bloodshotpico.overwhelmingores.blocks.PristineCoalOre;
 import com.bloodshotpico.overwhelmingores.blocks.ReducedCoalOre;
 import com.bloodshotpico.overwhelmingores.blocks.ScantyCoalOre;
+import com.bloodshotpico.overwhelmingores.blocks.WealthyCoalOre;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -16,10 +18,10 @@ public class ModBlocks
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
 	//Pristine Ores
-	
+	public static final Block PRISTINE_COAL_ORE = new PristineCoalOre("pritine_coal_ore", Material.ROCK);
 	
 	//Wealthy Ores
-	
+	public static final Block WEALTHY_COAL_ORE = new WealthyCoalOre("wealthy_coal_ore", Material.ROCK);
 	
 	//Enriched Ores
 	public static final Block ENRICHED_COAL_ORE = new EnrichedCoalOre("enriched_coal_ore", Material.ROCK);
