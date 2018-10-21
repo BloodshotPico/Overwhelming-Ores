@@ -1,10 +1,128 @@
 //Coal Ores
+tile.pristine_coal_ore.name=Pristine Coal Ore
+tile.wealthy_coal_ore.name=Wealthy Coal Ore
+tile.enriched_coal_ore.name=Enriched Coal Ore
 tile.poor_coal_ore.name=Poor Coal Ore
+tile.reduced_coal_ore.name=Reduced Coal Ore
+tile.scanty_coal_ore.name=Scanty Coal Ore
+
+//Iron Ores
+tile.pristine_iron_ore.name=Pristine Iron Ore
+tile.wealthy_iron_ore.name=Wealthy Iron Ore
+tile.enriched_iron_ore.name=Enriched Iron Ore
+tile.poor_iron_ore.name=Poor Iron Ore
+tile.reduced_iron_ore.name=Reduced Iron Ore
+tile.scanty_iron_ore.name=Scanty Iron Ore
+
+//Gold Chunks
+tile.pristine_gold_ore.name=Pristine Gold Ore
+tile.wealthy_gold_ore.name=Wealthy Gold Ore
+tile.enriched_gold_ore.name=Enriched Gold Ore
+tile.poor_gold_ore.name=Poor Gold Ore
+tile.reduced_gold_ore.name=Reduced Gold Ore
+tile.scanty_gold_ore.name=Scanty Gold Ore
+
+//Lapis Ores
+tile.pristine_lapis_ore.name=Pristine Lapis Ore
+tile.wealthy_lapis_ore.name=Wealthy Lapis Ore
+tile.enriched_lapis_ore.name=Enriched Lapis Ore
+tile.poor_lapis_ore.name=Poor Lapis Ore
+tile.reduced_lapis_ore.name=Reduced Lapis Ore
+tile.scanty_lapis_ore.name=Scanty Lapis Ore
+
+//Redstone Ores
+tile.pristine_redstone_ore.name=Pristine Redstone Ore
+tile.wealthy_redstone_ore.name=Wealthy Redstone Ore
+tile.enriched_redstone_ore.name=Enriched Redstone Ore
+tile.poor_redstone_ore.name=Poor Redstone Ore
+tile.reduced_redstone_ore.name=Reduced Redstone Ore
+tile.scanty_redstone_ore.name=Scanty Redstone Ore
+
+//Diamond Ores
+tile.pristine_diamond_ore.name=Pristine Diamond Ore
+tile.wealthy_diamond_ore.name=Wealthy Diamond Ore
+tile.enriched_diamond_ore.name=Enriched Diamond Ore
+tile.poor_diamond_ore.name=Poor Diamond Ore
+tile.reduced_diamond_ore.name=Reduced Diamond Ore
+tile.scanty_diamond_ore.name=Scanty Diamond Ore
+
+//Emerald Ores
+tile.pristine_emerald_ore.name=Pristine Emerald Ore
+tile.wealthy_emerald_ore.name=Wealthy Emerald Ore
+tile.enriched_emerald_ore.name=Enriched Emerald Ore
+tile.poor_emerald_ore.name=Poor Emerald Ore
+tile.reduced_emerald_ore.name=Reduced Emerald Ore
+tile.scanty_emerald_ore.name=Scanty Emerald Ore
+
+//Nether Quartz Ores
+tile.pristine_nether_quartz_ore.name=Pristine Nether Quartz Ore
+tile.wealthy_nether_quartz_ore.name=Wealthy Nether Quartz Ore
+tile.enriched_nether_quartz_ore.name=Enriched Nether Quartz Ore
+tile.poor_nether_quartz_ore.name=Poor Nether Quartz Ore
+tile.reduced_nether_quartz_ore.name=Reduced Nether Quartz Ore
+tile.scanty_nether_quartz_ore.name=Scanty Nether Quartz Ore
 
 //Coal Chunks
+item.pristine_coal.name=Pristine Coal
+item.wealthy_coal.name=Wealthy Coal
+item.enriched_coal.name=Enriched Coal
 item.coal_nugget.name=Coal Nugget
 item.tiny_coal.name=Tiny Coal
 item.coal_chunk.name=Coal Chunk
+
+//Iron Chunks
+item.pristine_iron.name=Pristine Iron
+item.wealthy_iron.name=Wealthy Iron
+item.enriched_iron.name=Enriched Iron
+item.iron_chunk.name=Iron Chunk
+item.tiny_iron.name=Tiny Iron
+
+//Gold Chunks
+item.pristine_gold.name=Pristine Gold
+item.wealthy_gold.name=Wealthy Gold
+item.enriched_gold.name=Enriched Gold
+item.gold_chunk.name=Gold Chunk
+item.tiny_gold.name=Tiny Gold
+
+//Lapis Chunks
+item.pristine_lapis.name=Pristine Lapis
+item.wealthy_lapis.name=Wealthy Lapis
+item.enriched_lapis.name=Enriched Lapis
+item.lapis_nugget.name=Lapis Nugget
+item.lapis_chunk.name=Lapis Chunk
+item.tiny_lapis.name=Tiny Lapis
+
+//Redstone Chunks
+item.pristine_redstone.name=Pristine Redstone
+item.wealthy_redstone.name=Weathly Redstone
+item.enriched_redstone.name=Enriched Redstone
+item.redstone_lump.name=Redstone Lump
+item.redstone_chunk.name=Redstone Chunk
+item.tiny_redstone.name=Tiny Redstone
+
+//Diamond Chunks
+item.pristine_diamond.name=Pristine Diamond
+item.wealthy_diamond.name=Wealthy Diamond
+item.enriched_diamond.name=Enriched Diamond
+item.diamond_nugget.name=Diamond Nugget
+item.diamond_chunk.name=Diamond Chunk
+item.tiny_diamond.name=Tiny Diamond
+
+//Emerald Chunks
+item.pristine_emerald.name=Pristine Emerald
+item.wealthy_emerald.name=Wealthy Emerald
+item.enriched_emerald.name=Enriched Emerald
+item.emerald_nugget.name=Emerald Nugget
+item.emerald_chunk.name=Emerald Chunk
+item.tiny_emerald.name=Tiny Emerald
+
+//NetherQuartz Chunks
+item.pristine_nether_quartz.name=Pristine Nether Quartz
+item.wealthy_nether_quartz.name=Wealthy Nether Quartz
+item.enriched_nether_quartz.name=Enriched Nether Quartz
+item.nether_quartz_nugget.name=Nether Quartz Nugget
+item.nether_quartz_chunk.name=Nether Quartz Chunk
+item.tiny_nether_quartz.name=Tiny Nether Quartz
 
 //CreativeTabs
 itemGroup.owoblocks=OWO Blocks

@@ -17,6 +17,6 @@ public class MainTab extends CreativeTabs
 	@Override
 	public ItemStack getTabIconItem() 
 	{
-		return new ItemStack(ModBlocks.ENRICHED_COAL_ORE);
+		return new ItemStack(ModBlocks.SCANTY_COAL_ORE);
 	}
 }

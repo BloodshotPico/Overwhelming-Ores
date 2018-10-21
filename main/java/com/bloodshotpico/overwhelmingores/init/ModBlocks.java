@@ -18,7 +18,7 @@ public class ModBlocks
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
 	//Pristine Ores
-	public static final Block PRISTINE_COAL_ORE = new PristineCoalOre("pritine_coal_ore", Material.ROCK);
+	public static final Block PRISTINE_COAL_ORE = new PristineCoalOre("pristine_coal_ore", Material.ROCK);
 	
 	//Wealthy Ores
 	public static final Block WEALTHY_COAL_ORE = new WealthyCoalOre("wealthy_coal_ore", Material.ROCK);

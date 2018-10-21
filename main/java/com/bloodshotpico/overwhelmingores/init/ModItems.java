@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.bloodshotpico.overwhelmingores.items.ItemBase;
+import com.bloodshotpico.overwhelmingores.items.ItemNugget;
 
 import net.minecraft.item.Item;
 
@@ -42,10 +43,10 @@ public class ModItems
 	public static final Item ENRICHED_NETHER_QUARTZ = new ItemBase("enriched_nether_quartz");
 	
 	//Nuggets
-	public static final Item COAL_NUGGET = new ItemBase("coal_nugget");
+	public static final Item COAL_NUGGET = new ItemNugget("coal_nugget");
 	public static final Item EMERALD_NUGGET = new ItemBase("emerald_nugget");
 	public static final Item DIAMOND_NUGGET = new ItemBase("diamond_nugget");
-	public static final Item REDSTONE_NUGGET = new ItemBase("redstone_nugget");
+	public static final Item REDSTONE_LUMP = new ItemBase("redstone_lump");
 	public static final Item LAPIS_NUGGET = new ItemBase("lapis_nugget");
 	public static final Item NETHER_QUARTZ_NUGGET = new ItemBase("nether_quartz_nugget");
 	
